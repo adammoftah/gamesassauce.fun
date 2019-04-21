@@ -1,0 +1,22 @@
+img{
+	max-width: 400px;
+	max-height: 250px;
+}
+h1{
+	font-family: Arial;
+}
+body{
+	background: red;
+	text-align: center;
+}
+a:link{
+color:#F7FF02;
+}
+
+a:visited{
+color:#8F56FA;
+}
+
+a:hover{
+color:#2CF129;
+}
